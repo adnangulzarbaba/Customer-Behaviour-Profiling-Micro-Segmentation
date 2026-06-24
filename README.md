@@ -193,9 +193,7 @@ Customer-Behaviour-Profiling-Micro-Segmentation/
 ├── images/
 │   └── visualizations/
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 
 ---
@@ -205,14 +203,8 @@ Customer-Behaviour-Profiling-Micro-Segmentation/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
+git clone https://github.com/adnangulzarbaba/Customer-Behaviour-Profiling-Micro-Segmentation.git
+cd customer-Behaviour-Profiling-Micro-Segmentation.
 ```
 
 ### Launch Jupyter Notebook
@@ -226,7 +218,7 @@ jupyter notebook
 Open:
 
 ```text
-customer_segmentation.ipynb
+project.ipynb
 ```
 
 and execute all cells.
