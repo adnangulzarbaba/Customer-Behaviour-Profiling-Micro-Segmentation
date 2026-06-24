@@ -1,4 +1,4 @@
-# Customer Behaviour Profiling and Micro-Segmentation Using RFM Analysis & Clustering
+# Customer Behaviour Profiling and Micro-Segmentation
 
 ## 📌 Project Overview
 
