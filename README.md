@@ -187,9 +187,6 @@ This analysis helps businesses:
 ```text
 Customer-Behaviour-Profiling-Micro-Segmentation/
 │
-├── data/
-│   └── transactions.csv
-│
 ├── notebooks/
 │   └── customer_segmentation.ipynb
 │
