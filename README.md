@@ -185,7 +185,7 @@ This analysis helps businesses:
 ## 📂 Project Structure
 
 ```text
-Customer-Segmentation/
+Customer-Behaviour-Profiling-Micro-Segmentation/
 │
 ├── data/
 │   └── transactions.csv
