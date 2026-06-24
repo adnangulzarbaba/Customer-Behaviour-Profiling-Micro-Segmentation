@@ -187,11 +187,13 @@ This analysis helps businesses:
 ```text
 Customer-Behaviour-Profiling-Micro-Segmentation/
 │
-├── notebooks/
-│   └── project.ipynb
-│
-├── images/
-│   └── visualizations/
+├── notebook/
+│   └── Apex-1_Outline.ipynb
+│   └── Apex-1.ipynb
+│   
+├── pdfs/
+│   └── Apex-1_Outline.pdf
+│   └── Apex-1.pdf
 │
 └── README.md
 ```
@@ -218,7 +220,7 @@ jupyter notebook
 Open:
 
 ```text
-project.ipynb
+Apex-1.ipynb
 ```
 
 and execute all cells.
