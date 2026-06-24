@@ -187,7 +187,7 @@ This analysis helps businesses:
 ```text
 Customer-Behaviour-Profiling-Micro-Segmentation/
 │
-├── notebook/
+├── notebooks/
 │   └── Apex-1_Outline.ipynb
 │   └── Apex-1.ipynb
 │   
