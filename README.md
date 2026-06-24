@@ -188,7 +188,7 @@ This analysis helps businesses:
 Customer-Behaviour-Profiling-Micro-Segmentation/
 │
 ├── notebooks/
-│   └── customer_segmentation.ipynb
+│   └── project.ipynb
 │
 ├── images/
 │   └── visualizations/
